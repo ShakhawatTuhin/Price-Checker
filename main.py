@@ -119,7 +119,7 @@ def send_email(old_proce, price, product_name, email):
         """The price of the product you're tracking just droped to """
         + str(price)
         + "$ \n -original price was: "+str(old_proce)+"$ \n -product name: "+product_name
-        + "\n \n for more inforamtion, please visit our repo.: https://github.com/WesamAbadi/Product-price-tracker"
+        + "\n \n for more inforamtion, please visit our repo.: https://github.com/ShakhawatTuhin/Price-Checker"
     )
 
     em = EmailMessage()
