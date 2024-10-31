@@ -21,7 +21,7 @@
 
 ## Installation
 
-1. Clone this project  `git clone https://github.com/WesamAbadi/Product-price-tracker.git` and cd into it `cd Peoduct-price-tracker`
+1. Clone this project  `git clone https://github.com/ShakhawatTuhin/Price-Checker` and cd into it `cd Peoduct-price-tracker`
 1. Add a Virtual Environment `python3 -m venv .venv` (Optional)
 1. Activate the Virtual Environment `source .venv/bin/activate` (Optional) 
 1. Install Requirements `pip3 install -r requirements.txt`
